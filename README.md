@@ -5,7 +5,7 @@
 
 ```javascript
 const genesis = {
-  currentFocus: "Javascript Coach",
+  currentFocus: "Front end Developer, Javascript Coach",
   code: ["Javascript", "HTML", "CSS"],
   askMeAbout: ["web dev", "tech", "app dev", "gastronomy","unfinished loves"],
   technologies: {
