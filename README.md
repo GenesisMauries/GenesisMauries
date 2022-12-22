@@ -1,5 +1,5 @@
 <h2>Hi, I'm Genesis Mauries! <img src="https://media.giphy.com/media/I1yVRt6aBQMeVkSS6z/giphy.gif" width="50"> </h2>
-<img align='right' src="https://media.giphy.com/media/0AirG7qSSrhCuY7D7p/giphy.gif" width="230">
+
 
 ### About me...  
 
@@ -11,7 +11,7 @@ const genesis = {
   technologies: {
     backEnd: { js: "node" },
     frontEnd: {
-      js: ["Vue", "Nuxt", "Angular"],
+      js: ["React", "Angular"],
       css: ["materialize", "vuetify", "bootstrap", "ant", "tailwind"]
     }
   },
@@ -19,6 +19,9 @@ const genesis = {
   funFact: "I love and build cantoya balloons"
 };
 ```
+<p>
+  <img src="https://media.giphy.com/media/CKSm2wlXnCu2scSTjb/giphy.gif" width="60"> <em><b>Can I do something for you? Follow or write me on my social networks</b</em>
+</p> 
 
 [![Linkedin: Genesis Mauries](https://img.shields.io/badge/-genesismauries-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/genesismauries/)](https://www.linkedin.com/in/genesismauries/)
 [![GitHub Genesis Mauries](https://img.shields.io/github/followers/genesismauries?label=follow&style=social)](https://github.com/genesismauries)
