@@ -19,10 +19,6 @@ const genesis = {
   funFact: "I love and build cantoya balloons"
 };
 ```
-<p>
-  <img src="https://media.giphy.com/media/CKSm2wlXnCu2scSTjb/giphy.gif" width="60"> <em><b>Can I do something for you? Follow or write me on my social networks</b</em>
-</p> 
-
 
 [![Linkedin: Genesis Mauries](https://img.shields.io/badge/-genesismauries-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/genesismauries/)](https://www.linkedin.com/in/genesismauries/)
 [![GitHub Genesis Mauries](https://img.shields.io/github/followers/genesismauries?label=follow&style=social)](https://github.com/genesismauries)
