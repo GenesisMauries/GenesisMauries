@@ -9,7 +9,7 @@ const genesis = {
   code: ["Javascript", "HTML", "CSS"],
   askMeAbout: ["web dev", "tech", "app dev", "gastronomy","unfinished loves"],
   technologies: {
-    backEnd: { js: "node" },
+    backEnd: { js: "node", java: "Spring Boot" },
     frontEnd: {
       js: ["React", "Angular"],
       css: ["materialize", "vuetify", "bootstrap", "ant", "tailwind"]
