@@ -5,14 +5,14 @@
 
 ```javascript
 const genesis = {
-  currentFocus: "Front end Developer, Javascript Coach",
-  code: ["Javascript", "HTML", "CSS"],
+  currentFocus: "Front end Developer",
+  code: ["Javascript", "HTML", "CSS", "TS"],
   askMeAbout: ["web dev", "tech", "app dev", "gastronomy","unfinished loves"],
   technologies: {
     backEnd: { js: "node", java: "Spring Boot" },
     frontEnd: {
-      js: ["React", "Angular"],
-      css: ["materialize", "vuetify", "bootstrap", "ant", "tailwind"]
+      js: ["React", "Angular", "Nextjs"],
+      css: ["materialize", "vuetify", "bootstrap", "ant", "tailwind", Sass]
     }
   },
   architecture: ["Progressive web applications", "Single page applications"],
