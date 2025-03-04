@@ -12,7 +12,7 @@ const genesis = {
     backEnd: { js: "node", java: "Spring Boot" },
     frontEnd: {
       js: ["React", "Angular", "Nextjs"],
-      css: ["materialize", "vuetify", "bootstrap", "ant", "tailwind", Sass]
+      css: ["materialize", "vuetify", "bootstrap", "ant", "tailwind", "Sass"]
     }
   },
   architecture: ["Progressive web applications", "Single page applications"],
